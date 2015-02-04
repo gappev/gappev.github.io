@@ -46,6 +46,13 @@ body{
 	background:#FFF;
 	font-size:100%;
 }
+
+/*---start-custom---*/
+.link{
+    color: #2980B9 !important;
+}
+/*---end-custom---*/
+
 /*---start-wrap---*/
 .wrap{
 	width: 80%;
